@@ -151,9 +151,11 @@ Query:
 }
 ```
 
+We use `"type": "best_fields"`. You can read more about 
+different types of `multi_match` search in [elastic-search.md](elastic-search.md).
 
 
 # Notes
 
-* Replace it with a link
+* [Notes by slavaheroes](https://github.com/slavaheroes/llm-zoomcamp/blob/homeworks/01-intro/notes.md)
 * Did you take notes? Add them above this line (Send a PR with *links* to your notes)
