@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 __pycache__/
 ./ollama_files
+/cohorts/2024/02-open-source/ollama_files
