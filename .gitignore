@@ -1,4 +1,8 @@
 .ipynb_checkpoints/
 __pycache__/
+<<<<<<< HEAD
 .venv
 .envrc
+=======
+./ollama_files
+>>>>>>> e636c3d (adding gitignore)
