@@ -2,6 +2,7 @@
 __pycache__/
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .venv
 .envrc
 =======
@@ -11,3 +12,7 @@ __pycache__/
 ./ollama_files
 /cohorts/2024/02-open-source/ollama_files
 >>>>>>> bab186c (add gitignore)
+=======
+./ollama_files
+/cohorts/2024/02-open-source/ollama_files
+>>>>>>> bab186c701e22b27c107829b3bd00342d82b162a
